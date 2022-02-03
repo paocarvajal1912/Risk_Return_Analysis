@@ -8,9 +8,9 @@ This analysis evaluates four new investment options for inclusion in the client 
 ## Technologies
 
 Libraries that need to be imported are:
-Pandas, NumPy, Pathlib, Csv, Matplotlib, and hvPlot.
+`Pandas`, `NumPy`, `Pathlib`, `Csv`, `Matplotlib`, and `hvPlot`.
 
-Some parts use Python 3.0 or higer, due to the use of f-strings.
+Some parts use `Python 3.7` or higer, due to the use of f-strings.
 
 
 ## Instalation Guide
@@ -57,17 +57,17 @@ https://www.dataquest.io/blog/jupyter-notebook-tutorial/
 
 " I recommend to include Berkshire Hathaway Inc for the following reasons:
 
->    1) Both candidate funds have a good response in times of market crushess, and this set an advantage to Berkshire, since that funds is more volatile[..]
+>    1) Both candidate funds have a good response in times of market crushes, and this set an advantage to **Berkshire**, since that funds is more volatile[..]
 
->    2) Berkshire has a better performance adjusted by risk as can be seen in a higher Sharpe ratio  [..]
+>    2) **Berkshire** has a better performance adjusted by risk as can be seen in a higher Sharpe ratio  [..]
 
->    3) Berkshire has a better performance adjusted by Beta than Tiger [..]
+>    3) **Berkshire** has a better performance adjusted by Beta than Tiger [..]
 
->    4) The correlation of Bershire with the market is 0.60, which is less than the correlation of Tiger with the market of 0.66 [..]
+>    4) The correlation of **Bershire** with the market is 0.60, which is less than the correlation of **Tiger** with the market of 0.66 [..]
 
 >    5) The selection should be of high investment potential, and suitable for retirement portfolios. [..] We can confirm this considering the low rolling 60 day beta [..]
 
-In conclusion, Berkshire Hathaway Inc is the best option to be included in the firm's suite of fund offering for retirement funds, because it has low risk, a good response to market drops, the best measurements of performance adjusted by risk, and offer the best diversification benefits given the lower correlation with the equity market."
+In conclusion, **Berkshire Hathaway Inc** is the best option to be included in the firm's suite of fund offering for retirement funds, because it has low risk, a good response to market drops, the best measurements of performance adjusted by risk, and offer the best diversification benefits given the lower correlation with the equity market."
 
 
 ## Contributors

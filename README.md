@@ -1,6 +1,6 @@
 # Risk_Return_Analysis
 
-Quantitative analysis for a FinTech investing platform. This platform aims to offer clients a one-stop online investment solution for their retirement portfolios that’s both inexpensive and high quality (similar provider as [Wealthfront](https://www.wealthfront.com/) or [Betterment](https://www.betterment.com/)). To keep the costs low, the firm uses algorithms to build each client's portfolio. The algorithms choose from various investment styles and options.
+This code contains quantitative analysis for a FinTech investing platform. This platform aims to offer clients a one-stop online investment solution for their retirement portfolios that’s both inexpensive and high quality. To keep the costs low, the firm uses algorithms to build each client's portfolio. The algorithms choose from various investment styles and options.
 
 This analysis evaluates four new investment options for inclusion in the client portfolios. The analysis determines the fund with the most investment potential based on key risk-management metrics: daily returns, standard deviations, correlations, Sharpe ratios, betas, and Treynor ratios.
 
@@ -19,7 +19,7 @@ The file is a jupyter notebook. If you don't have jupyter lab, you can install i
 https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html
 
 
-### Usage
+## Usage
 
 This is a jupyter notebook with a pre-run code. You can go through it and see code as well as results. 
 
